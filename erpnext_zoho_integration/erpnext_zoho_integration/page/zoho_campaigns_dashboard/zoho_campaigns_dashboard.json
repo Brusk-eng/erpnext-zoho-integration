@@ -1,0 +1,21 @@
+{
+    "creation": "2026-10-14 12:00:00.000000",
+    "docstatus": 0,
+    "doctype": "Page",
+    "idx": 0,
+    "modified": "2026-10-14 12:00:00.000000",
+    "modified_by": "Administrator",
+    "module": "Erpnext Zoho Integration",
+    "name": "zoho-campaigns-dashboard",
+    "owner": "Administrator",
+    "page_name": "zoho-campaigns-dashboard",
+    "roles": [
+        {"role": "Sales User"},
+        {"role": "Sales Manager"},
+        {"role": "Sales Master Manager"},
+        {"role": "System Manager"}
+    ],
+    "standard": "Yes",
+    "system_page": 0,
+    "title": "Zoho Campaigns"
+}
